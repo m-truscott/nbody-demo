@@ -1,5 +1,5 @@
-CXX = icpx
-COMPFLAGS =  -g -std=c++11 -O2 -qopenmp
+CXX = g++
+COMPFLAGS =  -g -std=c++11 -O2 -fopenmp
 OPTFLAGS =
 
 REPFLAGS =
